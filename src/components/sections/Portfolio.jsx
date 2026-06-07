@@ -56,9 +56,9 @@ const portfolioItems = [
     image: '/portfolio-10.jpg', accent: '#8B5CF6', tag: 'Canvas Art',
   },
   {
-    id: 11, category: 'Invitations', title: 'Manjal Ceremony Invite',
-    description: 'Traditional Tamil ceremony invitation with artistic design',
-    image: '/portfolio-11.jpg', accent: '#EC4899', tag: 'Ceremony',
+    id: 11, category: 'Invitations', title: 'Puberty Function Card',
+    description: 'Beautifully designed puberty & birthday function invitation cards',
+    image: '/portfolio-11.jpg', accent: '#EC4899', tag: 'Puberty & Birthday',
   },
   {
     id: 12, category: 'Banners', title: 'Round Sticker Prints',
