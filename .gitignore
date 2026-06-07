@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+*.log
+
+# uploads folder (source images — already copied to public/)
+uploads/
+
+# local screenshot files
+*.png
+hero-screenshot.png
+services-screenshot.png
+portfolio-screenshot.png
